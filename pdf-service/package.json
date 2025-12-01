@@ -1,0 +1,8 @@
+{
+  "name": "pdf-service",
+  "version": "1.0.0",
+  "main": "api/generate.js",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}
